@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//This program takes individual variables of points of a 3 dimensional shape as individual values and prints them in co_ordinate format
+//This program takes individual variables of points of a 3 dimensional shape and prints them in co_ordinate format
 //e.g input 2 x,y,z,i,j,k output (x,y,z)
 //			         (i,j,k)
 
