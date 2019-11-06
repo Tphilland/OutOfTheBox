@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-*/This is a  C program that sort an integer list in an ascending order, regardless of how messy thev data was*/
+*/This is a  C program that is supposed to sort an integer list in an ascending order, regardless of how messy the input data was*/
 
 int  check(int *tab, unsigned int sze)
 {
