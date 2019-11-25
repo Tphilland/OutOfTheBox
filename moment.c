@@ -12,6 +12,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+/*This program takes in seconds as input, and returns them as either seconds(if the input is less than a minute),
+minutes, hours, days or months*/
+
 char	*dura(unsigned int duration, int x, char *dur, char *str)
 {
 	int d;
